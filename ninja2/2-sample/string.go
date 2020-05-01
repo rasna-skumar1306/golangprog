@@ -5,12 +5,12 @@ import "fmt"
 func main() {
 	i := 0
 
-	s := "Hello, World!"
+	s := "Hello, World!" // a string is immutable
 
 	fmt.Println(s)
 	fmt.Printf("%T\n", s)
 
-	bs := []byte(s) //this splits each character of string s and stores the ascii value of each character
+	bs := []byte(s) //this splits each character of string s and stores the decimal ascii value of each character
 	fmt.Println(bs)
 	fmt.Printf("%T\n", bs) //this is of type []uint8
 
