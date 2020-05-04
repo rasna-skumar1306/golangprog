@@ -3,7 +3,7 @@ package main
 
 import "fmt"
 
-type nume struct {	//declaration of struct
+type nume struct { //declaration of struct
 	first string
 	last  string
 	fav   []string
