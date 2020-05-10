@@ -1,4 +1,4 @@
-//using functions to sending and receiving values through channels
+//using functions for sending and receiving values through channels
 package main
 
 import (
