@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/golangprog/ninja13/practice3/03/01-code-starting/mymath"
+	"github.com/golangprog/ninja13/practice3/03/02-code-finished/mymath"
 )
 
 func main() {
